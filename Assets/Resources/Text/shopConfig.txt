@@ -1,0 +1,8 @@
+﻿ID,ChineseText,EnglishText,TradChinese,Price
+//流水id,//中文,//英文,//繁体中文,//价格
+-1,-1,-1,-1,-1
+201,普通钩,Normal Hook,普通鉤,0
+202,星星钩,Seastar Hook,星星鉤,3000
+203,乌龟钩,Turtle Hook,烏龜鉤,6000
+204,鲨鱼钩,Shark Hook,鯊魚鉤,20000
+205,万能钩,Almighty Hook,萬能鉤,100000

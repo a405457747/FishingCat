@@ -1,0 +1,30 @@
+﻿ID,ChineseText,EnglishText,TradChinese
+//流水id,//中文,//英文,//繁体中文
+-1,,,
+301,鱼食味道,Bait Taste,魚食味道
+302,美味,Delicious,美味
+303,渔网尺寸,Net Size,漁網尺寸
+304,鱼,Fish,魚
+305,深度,Depth,深度
+306,离线收益,Offline Earnings,離線收益
+307,点击钓鱼,Tap To Fish,點擊釣魚
+308,纪念品陈列室,Trophy Room,紀念品陳列室
+309,商店,Shop,商店
+310,换钩,Replace,換鉤
+311,购买,Buy,購買
+312,恢复购买,ReturnToBuy,恢復購買
+313,,,
+314,,,
+315,贵宾,VIP,貴賓
+316,无广告,NO ADS,無廣告
+317,现在游玩,Play Now,現在遊玩
+318,商店购买,Buy,商店購買
+319,收集,CLAIM,收集
+320,双倍,DOUBLE,雙倍
+321,三倍,TRIPLE,三倍
+322,赚到的钱,Coin Earned,賺到的錢
+323,观看视频,Watch Video,觀看視頻
+324,满级,MAX,滿級
+325,点击使用,TAP TO USE,點擊使用
+326,使用中,IN USE,使用中
+327,未钩中,Miss,未鉤中

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 455633d8caaddf34aa1d1d03ccd2648c
+timeCreated: 1542185104
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CreightonPro-ExtraBold
+  fontNames:
+  - CreightonPro-ExtraBold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

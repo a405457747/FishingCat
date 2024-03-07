@@ -1,0 +1,293 @@
+﻿{
+	"Scenes": [{
+			"fishTypeCount": 7,
+			"Pools": [{
+					"FishIDs": [101, 104, 141],
+					"MinNum": 4,
+					"MaxNum": 6
+				},
+				{
+					"FishIDs": [102, 142],
+					"MinNum": 3,
+					"MaxNum": 6
+				},
+				{
+					"FishIDs": [103, 143],
+					"MinNum": 8,
+					"MaxNum": 10
+				},
+				{
+					"FishIDs": [104, 104, 104, 104, 102, 103, 144],
+					"MinNum": 3,
+					"MaxNum": 5
+				},
+				{
+					"FishIDs": [105, 145],
+					"MinNum": 8,
+					"MaxNum": 12
+				},
+				{
+					"FishIDs": [106, 146],
+					"MinNum": 10,
+					"MaxNum": 16
+				},
+
+				{
+					"FishIDs": [107, 147],
+					"MinNum": 8,
+					"MaxNum": 12
+				},
+				{
+					"FishIDs": [107, 104, 147, 144],
+					"MinNum": 6,
+					"MaxNum": 8
+				},
+				{
+					"FishIDs": [107, 105, 147, 145],
+					"MinNum": 6,
+					"MaxNum": 8
+				},
+				{
+					"FishIDs": [107, 106, 147, 146],
+					"MinNum": 6,
+					"MaxNum": 8
+				}
+			]
+		},
+		{
+			"fishTypeCount": 8,
+			"Pools": [{
+					"FishIDs": [108, 148],
+					"MinNum": 4,
+					"MaxNum": 5
+				},
+				{
+					"FishIDs": [109, 149],
+					"MinNum": 6,
+					"MaxNum": 8
+				},
+				{
+					"FishIDs": [110, 150],
+					"MinNum": 8,
+					"MaxNum": 12
+				},
+				{
+					"FishIDs": [111, 151],
+					"MinNum": 8,
+					"MaxNum": 12
+				},
+				{
+					"FishIDs": [112, 152],
+					"MinNum": 8,
+					"MaxNum": 10
+				},
+				{
+					"FishIDs": [113, 153],
+					"MinNum": 8,
+					"MaxNum": 10
+				},
+
+				{
+					"FishIDs": [113, 114, 154],
+					"MinNum": 4,
+					"MaxNum": 5
+				},
+				{
+					"FishIDs": [115, 114, 155, 152],
+					"MinNum": 4,
+					"MaxNum": 7
+				},
+				{
+					"FishIDs": [115, 114, 155, 153],
+					"MinNum": 4,
+					"MaxNum": 7
+				},
+				{
+					"FishIDs": [115, 116, 155, 154],
+					"MinNum": 4,
+					"MaxNum": 7
+				}
+			]
+		},
+		{
+			"fishTypeCount": 8,
+			"Pools": [{
+					"FishIDs": [116, 156],
+					"MinNum": 7,
+					"MaxNum": 10
+				},
+				{
+					"FishIDs": [117, 157, 116],
+					"MinNum": 4,
+					"MaxNum": 7
+				},
+				{
+					"FishIDs": [118, 158],
+					"MinNum": 7,
+					"MaxNum": 10
+				},
+				{
+					"FishIDs": [119, 159],
+					"MinNum": 7,
+					"MaxNum": 10
+				},
+				{
+					"FishIDs": [120, 160],
+					"MinNum": 7,
+					"MaxNum": 10
+				},
+				{
+					"FishIDs": [121, 161],
+					"MinNum": 7,
+					"MaxNum": 10
+				},
+
+				{
+					"FishIDs": [122, 162],
+					"MinNum": 7,
+					"MaxNum": 10
+				},
+				{
+					"FishIDs": [123, 120, 163, 160],
+					"MinNum": 3,
+					"MaxNum": 5
+				},
+				{
+					"FishIDs": [123, 121, 163, 161],
+					"MinNum": 4,
+					"MaxNum": 5
+				},
+				{
+					"FishIDs": [123, 122, 163, 162],
+					"MinNum": 4,
+					"MaxNum": 5
+				}
+			]
+		},
+		{
+			"fishTypeCount": 9,
+			"Pools": [{
+					"FishIDs": [124, 164],
+					"MinNum": 15,
+					"MaxNum": 22
+				},
+				{
+					"FishIDs": [125, 165],
+					"MinNum": 8,
+					"MaxNum": 10
+				},
+				{
+					"FishIDs": [126, 166],
+					"MinNum": 8,
+					"MaxNum": 10
+				},
+				{
+					"FishIDs": [127, 167],
+					"MinNum": 7,
+					"MaxNum": 11
+				},
+				{
+					"FishIDs": [128, 168],
+					"MinNum": 7,
+					"MaxNum": 12
+				},
+				{
+					"FishIDs": [129, 169],
+					"MinNum": 7,
+					"MaxNum": 12
+				},
+
+				{
+					"FishIDs": [130, 170],
+					"MinNum": 8,
+					"MaxNum": 12
+				},
+				{
+					"FishIDs": [131, 129, 171, 169],
+					"MinNum": 4,
+					"MaxNum": 7
+				},
+				{
+					"FishIDs": [132, 130, 172, 170],
+					"MinNum": 5,
+					"MaxNum": 7
+				},
+				{
+					"FishIDs": [132, 131, 172, 171],
+					"MinNum": 5,
+					"MaxNum": 7
+				}
+			]
+		},
+		{
+			"fishTypeCount": 7,
+			"Pools": [{
+					"FishIDs": [133, 173],
+					"MinNum": 6,
+					"MaxNum": 8
+				},
+				{
+					"FishIDs": [134, 174],
+					"MinNum": 6,
+					"MaxNum": 8
+				},
+				{
+					"FishIDs": [135, 175],
+					"MinNum": 6,
+					"MaxNum": 8
+				},
+				{
+					"FishIDs": [136, 176],
+					"MinNum": 6,
+					"MaxNum": 8
+				},
+				{
+					"FishIDs": [137, 177],
+					"MinNum": 6,
+					"MaxNum": 8
+				},
+				{
+					"FishIDs": [138, 178],
+					"MinNum": 6,
+					"MaxNum": 8
+				},
+
+				{
+					"FishIDs": [139, 179,140,180],
+					"MinNum": 6,
+					"MaxNum": 8
+				},
+				{
+					"FishIDs": [139, 136, 179, 176],
+					"MinNum": 6,
+					"MaxNum": 8
+				},
+				{
+               "FishIDs": [ 139, 138, 179, 178, 140, 180 ] ,
+					"MinNum": 6,
+					"MaxNum": 8
+				},
+				{
+               "FishIDs": [ 139,  179],
+					"MinNum": 6,
+					"MaxNum": 8
+				}
+			]
+		}
+	],
+
+   "DropHookSpeed":42,
+   "RecycleHookSpeed":3.1,
+   "QuickRecycleSpeed":90,
+   "OfflineEarningsPerLevel":4,
+   "DepthPerLevel":12,
+   "FishSpeed":1.2,
+   "DepthPerLevelCountPerScene":10,
+   "MaxFishFoodCount":50,
+   "FindFishAward":250,
+   "GetFishInterval":0.1,
+   "HookMoveSpeed":7.9,
+    "MaxFishNetCount":52,
+    "MaxDepthLevel":50,
+	 "MaxOffLineEarningsLevel":50
+}

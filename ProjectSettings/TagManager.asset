@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Model
+  - View
+  - Ctrl
+  - Fish
+  - Scene
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hook
+  - Fish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2136774703
+    locked: 0
+  - name: Fish
+    uniqueID: 1666353167
+    locked: 0
+  - name: UI
+    uniqueID: 2869082503
+    locked: 0
+  - name: AlertMenu
+    uniqueID: 2405390265
+    locked: 0

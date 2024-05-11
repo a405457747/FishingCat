@@ -39,13 +39,13 @@ public class GeogleADManager : MonoBehaviour
     public void Start()
     {
 #if UNITY_ANDROID
-        string appId = "ca-app-pub-8118569577100316";
-        // string appId = "ca - app - pub - 3940256099942544";
+        string appId = "";
+        // string appId = "";
 
         
 
 #elif UNITY_IPHONE
-        string appId = "ca-app-pub-8118569577100316";
+        string appId = "";
 #else
         string appId = "unexpected_platform";
 #endif
